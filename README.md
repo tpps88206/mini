@@ -11,7 +11,11 @@
 
 ## Classes
 
-* Buttons
+* Color
+* Margin
+* Padding
+* Border
+* Button
 
 ## Installation
 
