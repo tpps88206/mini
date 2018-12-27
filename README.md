@@ -15,4 +15,3 @@ The lightest CSS framework.
 ## Compatibility
 
 Supports most modern browsers (Chrome, Firefox, Edge, Opera) but it also has impressive support for older browsers.
-
