@@ -1,4 +1,4 @@
-# mini
+# :pencil2: mini :pushpin:
 
 ![logo](logo.png)
 
@@ -7,7 +7,7 @@
 ![language](https://img.shields.io/badge/language-css-orange.svg)
 [![license](https://img.shields.io/badge/license-MIT-000000.svg)](https://github.com/tpps88206/mini/blob/master/LICENSE)
 
-The lightest CSS framework.
+:bell: The lightest CSS framework. :tada:
 
 ## Classes
 
