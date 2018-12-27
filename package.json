@@ -1,5 +1,5 @@
 {
-  "name": "mini",
+  "name": "@tpps88206/mini",
   "version": "1.0.0",
   "description": "The lightest CSS framework.",
   "main": "dist/mini.min.css",
