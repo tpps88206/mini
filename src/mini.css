@@ -5,29 +5,235 @@
     --warn-color: #ffaf4d;
 }
 
-.btn.warn {
-    color: white;
-    background: var(--warn-color);
-    border: solid var(--warn-color);
+/*general-color*/
+
+.white {
+    color: white !important
 }
 
-.btn.danger {
-    color: white;
-    background: var(--danger-color);
-    border: solid var(--danger-color);
+.black {
+    color: black !important
 }
 
-.btn.success {
-    color: white;
-    background: var(--success-color);
-    border: solid var(--success-color);
+.warn {
+    color: var(--warn-color) !important
 }
 
-.btn.primary {
-    color: white;
-    background: var(--primary-color);
-    border: solid var(--primary-color);
+.danger {
+    color: var(--danger-color) !important
 }
+
+.success {
+    color: var(--success-color) !important
+}
+
+.primary {
+    color: var(--primary-color) !important
+}
+
+.bg-white {
+    background-color: white !important
+}
+
+.bg-black {
+    background-color: black !important
+}
+
+.bg-warn {
+    background-color: var(--warn-color) !important
+}
+
+.bg-danger {
+    background-color: var(--danger-color) !important
+}
+
+.bg-success {
+    background-color: var(--success-color) !important
+}
+
+.bg-primary {
+    background-color: var(--primary-color) !important
+}
+
+.b-white {
+    border-color: white !important
+}
+
+.b-black {
+    border-color: black !important
+}
+
+.b-warn {
+    border-color: var(--warn-color) !important
+}
+
+.b-danger {
+    border-color: var(--danger-color) !important
+}
+
+.b-success {
+    border-color: var(--success-color) !important
+}
+
+.b-primary {
+    border-color: var(--primary-color) !important
+}
+
+/*margin*/
+
+.m-0 {
+    margin: 0
+}
+
+.m-1 {
+    margin: .5em
+}
+
+.m-2 {
+    margin: 1em
+}
+
+.m-3 {
+    margin: 2em
+}
+
+.m-4 {
+    margin: 4em
+}
+
+.m-a {
+    margin: auto
+}
+
+.mt-0 {
+    margin-top: 0
+}
+
+.mt-1 {
+    margin-top: .5em
+}
+
+.mt-2 {
+    margin-top: 1em
+}
+
+.mt-3 {
+    margin-top: 2em
+}
+
+.mt-4 {
+    margin-top: 4em
+}
+
+.mt-a {
+    margin-top: auto
+}
+
+.mr-0 {
+    margin-right: 0
+}
+
+.mr-1 {
+    margin-right: .5em
+}
+
+.mr-2 {
+    margin-right: 1em
+}
+
+.mr-3 {
+    margin-right: 2em
+}
+
+.mr-4 {
+    margin-right: 4em
+}
+
+.mr-a {
+    margin-right: auto
+}
+
+.mb-0 {
+    margin-bottom: 0
+}
+
+.mb-1 {
+    margin-bottom: .5em
+}
+
+.mb-2 {
+    margin-bottom: 1em
+}
+
+.mb-3 {
+    margin-bottom: 2em
+}
+
+.mb-4 {
+    margin-bottom: 4em
+}
+
+.mb-a {
+    margin-bottom: auto
+}
+
+.ml-0 {
+    margin-left: 0
+}
+
+.ml-1 {
+    margin-left: .5em
+}
+
+.ml-2 {
+    margin-left: 1em
+}
+
+.ml-3 {
+    margin-left: 2em
+}
+
+.ml-4 {
+    margin-left: 4em
+}
+
+.ml-a {
+    margin-left: auto
+}
+
+/*padding*/
+
+.p-0 {
+    padding: 0
+}
+
+.p-1 {
+    padding: .5em
+}
+
+.p-2 {
+    padding: 1em
+}
+
+.p-3 {
+    padding: 2em
+}
+
+.p-4 {
+    padding: 4em
+}
+
+.p-a {
+    padding: auto
+}
+
+/*border*/
+
+.bdr {
+    border: 1px solid
+}
+
+/*button*/
 
 .btn {
     cursor: pointer;
