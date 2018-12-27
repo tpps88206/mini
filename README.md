@@ -1,11 +1,11 @@
-# mini
+# :pencil2: mini :pushpin:
 
 [![npm](https://img.shields.io/npm/v/@tpps88206/mini.svg)](https://www.npmjs.com/package/@tpps88206/mini)
 [![downloads](https://img.shields.io/npm/dt/@tpps88206/mini.svg)](https://www.npmjs.com/package/@tpps88206/mini)
 [![language](https://img.shields.io/badge/language-css-orange.svg)]()
 [![license](https://img.shields.io/badge/license-MIT-000000.svg)](https://github.com/tpps88206/mini/blob/master/LICENSE)
 
-The lightest CSS framework.
+:bell: The lightest CSS framework. :tada:
 
 ## Classes
 
