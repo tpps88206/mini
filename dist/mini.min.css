@@ -1,1 +1,1 @@
-.btn.primary{color:#fff;background:#fa0;border:solid #fa0}
+.btn.warn{color:#fff;background:#ffaf4d;border:solid #ffaf4d}.btn.danger{color:#fff;background:#ff3d43;border:solid #ff3d43}.btn.success{color:#fff;background:#27dc82;border:solid #27dc82}.btn.primary{color:#fff;background:#597dff;border:solid #597dff}.btn{cursor:pointer;display:inline-block;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;border-radius:.25rem}

@@ -1,9 +1,39 @@
 :root {
-    --primary-color: #fa0;
+    --primary-color: #597dff;
+    --success-color: #27dc82;
+    --danger-color: #ff3d43;
+    --warn-color: #ffaf4d;
+}
+
+.btn.warn {
+    color: white;
+    background: var(--warn-color);
+    border: solid var(--warn-color);
+}
+
+.btn.danger {
+    color: white;
+    background: var(--danger-color);
+    border: solid var(--danger-color);
+}
+
+.btn.success {
+    color: white;
+    background: var(--success-color);
+    border: solid var(--success-color);
 }
 
 .btn.primary {
     color: white;
     background: var(--primary-color);
     border: solid var(--primary-color);
+}
+
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
 }
