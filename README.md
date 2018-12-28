@@ -4,7 +4,7 @@
   </a>
   <h3 align="center">mini</h3>
   <p align="center">
-    The lightest CSS framework
+    The lightest CSS framework but gets anything you need. It removed something that has little effect and kept the important thing.
   </p>
 </p>
 
@@ -32,7 +32,8 @@ Several quick start options are available.
 * [Download the latest release.](https://github.com/tpps88206/mini/archive/v1.0.2.zip)
 * Clone the repo: `git clone https://github.com/tpps88206/mini`
 * Install with [npm](https://www.npmjs.com/): `npm install --save @tpps88206/mini`
-* Use CDN in your website: `<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tpps88206/mini@latest/dist/mini.min.css" />`
+* Use CDN in your website: 
+  `<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tpps88206/mini@latest/dist/mini.min.css" />`
 
 ## Document
 
