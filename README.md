@@ -4,7 +4,10 @@
   </a>
   <h3 align="center">mini</h3>
   <p align="center">
-    The lightest CSS framework but gets anything you need. It removed something that has little effect and kept the important thing.
+    The lightest CSS framework but gets anything you need. 
+  </p>
+  <p align="center">
+    It removed something that has little effect and kept the important thing.
   </p>
 </p>
 
