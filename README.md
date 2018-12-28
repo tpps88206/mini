@@ -2,13 +2,12 @@
   <a href="https://github.com/tpps88206/mini">
     <img src="logo.png" alt="logo">
   </a>
-  <h3 align="center">mini</h3>
-  <p align="center">
+  <h3 align="center">
     The lightest CSS framework but gets anything you need. 
-  </p>
-  <p align="center">
+  </h3>
+  <h3 align="center">
     It removed something that has little effect and kept the important thing.
-  </p>
+  </h3>
 </p>
 
 ## Status
